@@ -39,10 +39,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 
 
-![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnar81&theme=dark&hide=)
+![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnar81&theme=radical&hide=)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binnar81&theme=dark&layout=donut-vertical)](https://github.com/Binnar81/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binnar81&theme=radical&layout=donut-vertical)](https://github.com/Binnar81/github-readme-stats)
 
 ![snake gif](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
 

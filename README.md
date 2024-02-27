@@ -42,4 +42,3 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 
 
-![Github Contribution Graph](https://github.com/Binnar81/Binnar81/blob/main/Images/github-contribution-grid-snake.gif)

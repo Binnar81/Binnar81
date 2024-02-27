@@ -1,4 +1,4 @@
-![Acheivements](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/Hardwork.png)
+![Acheivements](https://github.com/Binnar81/Binnar81/blob/main/Images/Hardwork.png)
 
 # Hi  I'm Sanjay Binnar
 ## I am a Frontend Developer and  Passionate About Crafting Efficient Code 🚀| Frontend Developer  | Problem Solving Enthusiast 🧠  | 300+ Problems Solved on DSA | Coding Ninja Studio Level: Expert | 2.5K Followers @LinkedIn & 1M+ 🔥 Views  | 75DayHardPlacementChallenge 🔥| DSA Intermediate Problem Solver @HackerRank | Leetcode Weekly Contest Ranking: 1506
@@ -19,7 +19,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 🔗 Connect Me on [Twitter](https://twitter.com/sanjay_binnar)
 
 ## 🚀 Languages & Tools: 
-![Bootstrap](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/bootstrap.jpeg) ![CSS](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/CSS3.png) ![framermotion](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/framermotion.jpeg) ![git](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/framermotion.jpeg) ![html](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/html5.png) ![java](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/html5.png) ![JavaScript](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/html5.png) ![Next.js](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/Next.png) ![React](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/react.png) ![redux](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/redux.png) ![SCSS](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/SCSS.png) ![Tailwind CSS](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/Tailwindcss.png)   ![TypeScript](https://github.com/Binnar81/fetchUserData-webApplication/blob/main/OneDrive/Desktop/MERN/GithubProfile/Images/typescript.png)
+![skills](https://github.com/Binnar81/Binnar81/blob/2382397a2306f30f286e4c8c47b4722f871ab4cd/Images/skillsetsImage.png)
+
 
 
 

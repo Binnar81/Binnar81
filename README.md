@@ -31,7 +31,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 |🌐 Crypto Mudra Website [🔗](https://github.com/Binnar81/CryptoMudra-Website) |	🌐ShoppingMart Website [🔗](https://github.com/Binnar81/ShoppingMart-Website) |
 |🌐 BSRO Website [🔗](https://github.com/Binnar81/BSRO_Website)	| 🌐 Tech Blogging Website [🔗](https://github.com/Binnar81techbloggingwebsite) |
 |🌐 Prashad Restaurant Website [🔗](https://github.com/Binnar81/Prashad_Restaurant)|
-|🌐 Task Adder [🔗](https://github.com/Binnar81/TaskAdder) | 
+🌐 Task Adder [🔗](https://github.com/Binnar81/TaskAdder) | 
 |🌐Fetch Users Data Application[🔗](https://github.com/Binnar81fetchUserData-webApplication) |	🌐  Color Change Website [🔗](https://github.com/Binnar81/colorchange_website) |
 | 🌐 Tic Tac Toe Game [🔗](https://github.com/Binnar81/Tic-Tac-Toe-Game) |	🌐 CSS Mini Project [🔗](https://github.com/Binnar81/CSS-Mini-Project) |
 |🌐 Basic HTML project [🔗](https://github.com/Binnar81/BasicHtmlProject) |	🌐 Multiple Windows 3D Scene [🔗](https://github.com/Binnar81/multipleWindow3dScene) |

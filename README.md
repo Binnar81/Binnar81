@@ -5,18 +5,18 @@
 
 ## 🙋‍♂️ About Me
 
-🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
-👨‍💻 Love to learn new technologies and to explore new sets of areas.
-👁‍🗨 What's Special about me?
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
-📔 MyResume: [| Link |](https://drive.google.com/file/d/1LWeNSOpk6muZH-wTZ6evVHOGfCCApos7/view)
-🔥 My DSA and Development Skills
-👨‍💻 Check My! CodingProfile
-📘 I’m Currently Studying New New Tech Stack for Expanding My Skills set and Knowledge
-👯 I’m looking to collaborate on OpenSource Projects
-📫 How to reach me : sbinny2001@gmail.com
-🔗 Connect Me on [Linkedin ]((https://www.linkedin.com/in/sanjay-binnar/))
-🔗 Connect Me on [Twitter](https://twitter.com/sanjay_binnar)
+### 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
+### 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+### 👁‍🗨 What's Special about me?
+### Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+### 📔 MyResume: [| Link |](https://drive.google.com/file/d/1LWeNSOpk6muZH-wTZ6evVHOGfCCApos7/view)
+### 🔥 My DSA and Development Skills
+### 👨‍💻 Check My! CodingProfile
+### 📘 I’m Currently Studying New New Tech Stack for Expanding My Skills set and Knowledge
+### 👯 I’m looking to collaborate on OpenSource Projects
+### 📫 How to reach me : sbinny2001@gmail.com
+### 🔗 Connect Me on [Linkedin ](https://www.linkedin.com/in/sanjay-binnar/)
+### 🔗 Connect Me on [Twitter](https://twitter.com/sanjay_binnar)
 
 ## 🚀 Languages & Tools: 
 ![skills](https://github.com/Binnar81/Binnar81/blob/2382397a2306f30f286e4c8c47b4722f871ab4cd/Images/skillsetsImage.png)

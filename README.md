@@ -24,14 +24,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 
 
-📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+📝 PROJECT's ZONE (Working on 15+ Persional Projects)
 | Project Row I | 	Project Row II |
 |---|---|
 |🌐 My Portfolio Website [🔗](https://github.com/Binnar81/My-Portfolio-website)	 |🌐 Gym Saarthi Website [🔗](https://github.com/Binnar81/GymSaarthi) |
 |🌐 Crypto Mudra Website [🔗](https://github.com/Binnar81/CryptoMudra-Website) |	🌐ShoppingMart Website [🔗](https://github.com/Binnar81/ShoppingMart-Website) |
 |🌐 BSRO Website [🔗](https://github.com/Binnar81/BSRO_Website)	| 🌐 Tech Blogging Website [🔗](https://github.com/Binnar81techbloggingwebsite) |
-|🌐 Prashad Restaurant Website [🔗](https://github.com/Binnar81/Prashad_Restaurant)|
-🌐 Task Adder [🔗](https://github.com/Binnar81/TaskAdder) | 
+|🌐 Prashad Restaurant Website [🔗](https://github.com/Binnar81/Prashad_Restaurant)|🌐 Task Adder [🔗](https://github.com/Binnar81/TaskAdder) | 
 |🌐Fetch Users Data Application[🔗](https://github.com/Binnar81fetchUserData-webApplication) |	🌐  Color Change Website [🔗](https://github.com/Binnar81/colorchange_website) |
 | 🌐 Tic Tac Toe Game [🔗](https://github.com/Binnar81/Tic-Tac-Toe-Game) |	🌐 CSS Mini Project [🔗](https://github.com/Binnar81/CSS-Mini-Project) |
 |🌐 Basic HTML project [🔗](https://github.com/Binnar81/BasicHtmlProject) |	🌐 Multiple Windows 3D Scene [🔗](https://github.com/Binnar81/multipleWindow3dScene) |
@@ -40,13 +39,15 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 
 
-![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnar81&hide=contribs,prs)
+![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnar81&theme=dark&hide=)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binnar81&theme=dark&layout=donut-vertical)](https://github.com/Binnar81/github-readme-stats)
 
 ![snake gif](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
 
 
 
-![github-contribution-grid-snake](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
+
 
 

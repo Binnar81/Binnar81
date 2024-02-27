@@ -42,7 +42,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnar81&hide=contribs,prs)
 
 
-![Snake Game](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
 
 
 

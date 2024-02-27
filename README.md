@@ -19,7 +19,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 🔗 Connect Me on [Twitter](https://twitter.com/sanjay_binnar)
 
 ## 🚀 Languages & Tools: 
-![Bootstrap](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/bootstrap.jpeg) ![CSS](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/CSS3.png width="96px" height="96px") ![framermotion](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/framermotion.jpeg) ![git](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/git.png) ![html](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/html5.png) ![java](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/java.png) ![JavaScript](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/js.jpeg) ![Next.js](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/Next.png) ![React](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/react.png) ![redux](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/redux.png) ![SCSS](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/SCSS.png) ![Tailwind CSS](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/Tailwindcss.png)   ![TypeScript](https://github.com/Binnar81/Binnar81/blob/b63721615d8c57abaf5520f8ea32da8c9479db48/Images/typescript.png)
+![skills](https://github.com/Binnar81/Binnar81/blob/main/Images/skillsetsImage.png)
 
 
 
@@ -29,8 +29,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 |🌐 My Portfolio Website [🔗](https://github.com/Binnar81/My-Portfolio-website)	 |🌐 Gym Saarthi Website [🔗](https://github.com/Binnar81/GymSaarthi) |
 |🌐 Crypto Mudra Website [🔗](https://github.com/Binnar81/CryptoMudra-Website) |	🌐ShoppingMart Website [🔗](https://github.com/Binnar81/ShoppingMart-Website) |
 |🌐 BSRO Website [🔗](https://github.com/Binnar81/BSRO_Website)	| 🌐 Tech Blogging Website [🔗](https://github.com/Binnar81techbloggingwebsite) |
-|🌐 Prashad Restaurant Website [🔗](https://github.com/Binnar81/Prashad_Restaurant)|
-|🌐 Task Adder [🔗](https://github.com/Binnar81/TaskAdder) | 
+|🌐 Prashad Restaurant Website [🔗](https://github.com/Binnar81/Prashad_Restaurant)|🌐 Task Adder [🔗](https://github.com/Binnar81/TaskAdder) | 
 |🌐Fetch Users Data Application[🔗](https://github.com/Binnar81fetchUserData-webApplication) |	🌐  Color Change Website [🔗](https://github.com/Binnar81/colorchange_website) |
 | 🌐 Tic Tac Toe Game [🔗](https://github.com/Binnar81/Tic-Tac-Toe-Game) |	🌐 CSS Mini Project [🔗](https://github.com/Binnar81/CSS-Mini-Project) |
 |🌐 Basic HTML project [🔗](https://github.com/Binnar81/BasicHtmlProject) |	🌐 Multiple Windows 3D Scene [🔗](https://github.com/Binnar81/multipleWindow3dScene) |

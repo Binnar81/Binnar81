@@ -12,7 +12,7 @@
 ### 📔 MyResume: [| Link |](https://drive.google.com/file/d/1LWeNSOpk6muZH-wTZ6evVHOGfCCApos7/view)
 ### 🔥 My DSA and Development Skills
 ### 👨‍💻 Check My! CodingProfile
-### 📘 I’m Currently Studying New New Tech Stack for Expanding My Skills set and Knowledge
+### 📘 I’m Currently Studying  New Tech Stack for Expanding My Skills set and Knowledge
 ### 👯 I’m looking to collaborate on OpenSource Projects
 ### 📫 How to reach me : sbinny2001@gmail.com
 ### 🔗 Connect Me on [Linkedin ](https://www.linkedin.com/in/sanjay-binnar/)
@@ -54,7 +54,7 @@
 <a href="https://github.com/Binnar81/github-readme-stats"><img alt="Sanjay Binnar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Binnar81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Binnar81/github-readme-stats"><img alt="Sanjay Binnar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binnar81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
 
 <br/>
 <br/>
@@ -65,9 +65,7 @@
 <br/>
 
 ## 📈 Graph
-<p align="center">
-   <img src="https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![snake gif](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
 
 
 

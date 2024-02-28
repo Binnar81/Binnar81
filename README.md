@@ -39,13 +39,35 @@
 
 
 
-![Sanjay GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnar81&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binnar81&theme=radical&layout=donut-vertical)](https://github.com/Binnar81/github-readme-stats)
+<br>
+<p align="center">
+    <a href="https://https://github.com/Binnar81/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanjay Binnar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Binnar81&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ 
+## 📊 My Github Stats
 
-![snake gif](https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.gif)
+   <br/>
+<a href="https://github.com/Binnar81/github-readme-stats"><img alt="Sanjay Binnar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Binnar81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Binnar81/github-readme-stats"><img alt="Sanjay Binnar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binnar81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br/>
+<br/>
+
+
+
+<br/>
+<br/>
+
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/Binnar81/Binnar81/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 
 
